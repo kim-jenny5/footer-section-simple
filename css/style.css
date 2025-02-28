@@ -23,6 +23,7 @@ footer {
 }
 
 footer,
+main,
 .footer-container {
 	display: flex;
 	justify-content: center;
